@@ -1,6 +1,6 @@
 # Dimitar Dramchev
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/d-dramchev/)
 
 Creative and driven Junior Full-Stack Software Engineer with experience in Ruby, Python, JavaScript, Typescript (and some C++, Lua). Recent Makers graduate, with a degree in Computing, and a passion for writing high-quality, optimised code. With aptitude for maths and logic, lead by curiosity and desire to learn, I'm looking for a company where I would be able work on challenging problems and write meaningful and beautiful software.
 
@@ -9,7 +9,7 @@ Creative and driven Junior Full-Stack Software Engineer with experience in Ruby,
 | Name / repo                                                                | Description                                                                               | Tech/tools                                                               | Live                                     |
 | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------- |
 | [**Meowbook**](https://github.com/ddrmv/d-meowbook)                        | A social app team project with a meow twist.                                              | JavaScript, Node, Express, Handlebars, Bootstrap, MongoDB, Jest, Cypress | [link](https://dmeowbook.herokuapp.com/) |
-| [**Clickbait News**](https://github.com/ddrmv/clickbait-news-team-project) | See the intended emotional effect of a headline, its political lean, related fact checks. | TypeSrcipt, JavaScript, Node, Express, EJS, MDBootstrap, Jest            | [link](https://dmeowbook.herokuapp.com/) |
+| [**Clickbait News**](https://github.com/ddrmv/clickbait-news-team-project) | See the intended emotional effect of a headline, its political lean, related fact checks. | TypeSrcipt, JavaScript, Node, Express, EJS, MDBootstrap, Jest            | [link](https://dis-reeks.herokuapp.com/) |
 | [**Tech tests**](https://github.com/ddrmv/tech-tests)                      | Tech tests with various technologies, demonstrating TDD and code quality.                 | JavaScript, Jest                                                         |                                          |
 
 ## Skills
@@ -62,7 +62,7 @@ Creative and driven Junior Full-Stack Software Engineer with experience in Ruby,
 
 ## Experience
 
-**Career break / learning** (2020 - Jul-2022)  
+**Career break / learning** (Sep-2019 - Jul-2022)  
 _Spent time exploring different technologies and potential tech-related career paths_
 
 - Introduction to Computer Science and Programming Using Python - MITx
@@ -72,7 +72,7 @@ _Spent time exploring different technologies and potential tech-related career p
 - Fine art creation in Krita/Photoshop, 3D art creation with Blender
 - Game UI modding with Lua
 
-**Boyce On-site at Credit Suisse, Investment Banking Division** (2011 - 2019)  
+**Boyce On-site at Credit Suisse, Investment Banking Division** (Jul-2011 - Sep-2019)  
 _Presentation Analyst_
 
 - Created, formatted and proofed Investment Banking presentations to challenging deadlines (e.g. 2-3 hours, to as little as 30 minutes)
@@ -85,5 +85,5 @@ _Presentation Analyst_
 - Group events and meetups: London TypesCript, London Life Drawing, London Philosophy Collective, Katathon
 - Cycling: Use a bicycle for daily transport around London, as well as longer trips, like London-Paris
 - Drawing: Mainly in digital form (Krita, Photoshop, Sai), but also in graphite and charcoal
-- Reading: Love exploring both fiction and non-fiction: fantasy, sci-fi, pshycology, hoistory, biography, classics
+- Reading: Love exploring both fiction and non-fiction: fantasy, sci-fi, psychology, history, biography, classics
 - Martial Arts: Interest in self-defence oriented sports, experience in Kyokushin and Krav Maga
