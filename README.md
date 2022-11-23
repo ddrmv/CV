@@ -9,22 +9,22 @@ Creative and driven Junior Full-Stack Software Engineer with experience in Ruby,
 | Name / repo                                                                | Description                                                                               | Tech/tools                                                               | Live                                     |
 | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------- |
 | [**Meowbook**](https://github.com/ddrmv/d-meowbook)                        | A social app team project with a meow twist.                                              | JavaScript, Node, Express, Handlebars, Bootstrap, MongoDB, Jest, Cypress | [link](https://dmeowbook.herokuapp.com/) |
-| [**Clickbait News**](https://github.com/ddrmv/clickbait-news-team-project) | See the intended emotional effect of a headline, its political lean, related fact checks. | TypeSrcipt, JavaScript, Node, Express, EJS, MDBootstrap, Jest            | [link](https://dis-reeks.herokuapp.com/) |
+| [**Clickbait News**](https://github.com/ddrmv/clickbait-news-team-project) | See the intended emotional effect of a headline, its political lean, related fact checks. | TypeScript, JavaScript, Node, Express, EJS, MDBootstrap, Jest            | [link](https://dis-reeks.herokuapp.com/) |
 | [**Tech tests**](https://github.com/ddrmv/tech-tests)                      | Tech tests with various technologies, demonstrating TDD and code quality.                 | JavaScript, Jest                                                         |                                          |
 
 ## Skills
 
 #### Problem solver
 
-- Implemented a once-an-hour server-wide refresh rate limit for an api call that had eluded multiple team members.
+- Implemented a once-an-hour server-wide refresh rate limit for an API call that had eluded multiple team members.
 - Searched for and quickly provided the team with a resource/solution for resolving merge conflicts the first time the team had issues and needed to learn about github collaboration.
-- Helped team members set up / troubleshoot unfamiliar development environments on AWS, WSL. Resolved multiple dependencies and conflicts, setting up a team project base with various new technologies within a single day (Typescript, EJS, Jest).
+- Helped team members set up / troubleshoot unfamiliar development environments on AWS, WSL. Resolved multiple dependencies and conflicts, setting up a team project base with various new technologies within a single day (TypeScript, EJS, Jest).
 
 #### Good communicator
 
 - Ability to work in pairs and teams with different styles. More than once being able to step back and figure out a difficulty or mismatch in communication styles, to improve quality of communication and pair productivity.
 - Praised multiple times by team members for initiating feedback, consistently putting effort into providing constructive positive and to-improve feedback for both team processes and technical implementation.
-- Eager to receive feedback and continually improve, often incorporated feedback from team members (increased cues to more clearly convey agreement/disagreement, dynamic adjustment of exploration of ideas / focused work ratio).
+- Eager to receive feedback and continually improve, often incorporated feedback from team members (e.g. increased cues to more clearly convey agreement/disagreement, dynamic adjustment of exploration of ideas / focused work ratio).
 
 #### Well organised and eager to take on responsibility
 
@@ -50,10 +50,10 @@ Creative and driven Junior Full-Stack Software Engineer with experience in Ruby,
 
 #### [Makers Academy](https://makers.tech/) (Jul-2022 - Nov-2022)
 
-- Developed a strong TDD process of writing code to opimise code simplicity and minimise debugging time (RSpec, Jest, Cypress).
+- Developed a strong TDD process of writing code to optimise code simplicity and minimise debugging time (RSpec, Jest, Cypress).
 - Emphasis on code quality through code reviews to solidify OOP, TDD, separation of concerns, good naming (Ruby, JavaScript).
-- Frequently used paring in order to problem solve efficiently and exchange knowledge, requiring teamwork and communication.
-- Developed concrete processes of application design and collaborative development through multiple team projects (Agile, XP, Scrum, Trello, Github, Live Share, Zoom).
+- Daily pair programming in order to problem solve efficiently and exchange knowledge, improving communication and collaboration skills.
+- Developed concrete processes of application design and collaborative development through multiple team projects (Agile, XP, Scrum; using Trello, Github, Live Share, Zoom).
 - Developed the ability to quickly learn and use unfamiliar frameworks and technologies (JavaScript, Bootstrap, EJS, Cypress, Handlebars, TypeScript).
 
 #### University of Greenwich
@@ -82,8 +82,8 @@ _Presentation Analyst_
 
 ## Hobbies and Interests
 
-- Group events and meetups: London TypesCript, London Life Drawing, London Philosophy Collective, Katathon
+- Group events and meetups: London TypeScript, London Life Drawing, London Philosophy Collective, Katathon
 - Cycling: Use a bicycle for daily transport around London, as well as longer trips, like London-Paris
-- Drawing: Mainly in digital form (Krita, Photoshop, Sai), but also in graphite and charcoal
+- Drawing: Mainly in digital form (Krita, Photoshop), but also in graphite and charcoal
 - Reading: Love exploring both fiction and non-fiction: fantasy, sci-fi, psychology, history, biography, classics
 - Martial Arts: Interest in self-defence oriented sports, experience in Kyokushin and Krav Maga
