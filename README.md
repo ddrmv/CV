@@ -2,14 +2,15 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/d-dramchev/)
 
-Creative and hard-working Junior Full-Stack Software Engineer with experience in Ruby, Python, JavaScript, Typescript (and others). Recent Makers graduate, with a degree in Computing, and a passion for writing high-quality, optimised code. With aptitude for maths and logic, lead by curiosity and desire to learn, I'm looking for a company where I would be able work on challenging problems and write meaningful and beautiful software.
+A creative and hard-working junior full-stack software engineer with experience in Ruby, Python, JavaScript, Typescript. Recent Makers graduate, with a degree in Computing, and a passion for writing high-quality, optimised code. With aptitude for maths and logic, led by curiosity and desire to learn, I'm looking for a position where I would be able to work on challenging problems and write meaningful and beautiful software.
 
 ## Projects
 
 | Name / repo                                                                | Description                                                                               | Tech/tools                                                               | Live                                     |
 | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------- |
-| [**Meowbook**](https://github.com/ddrmv/d-meowbook)                        | A social app team project with a meow twist.                                              | JavaScript, Node, Express, Handlebars, Bootstrap, MongoDB, Jest, Cypress | [link](https://dmeowbook.herokuapp.com/) |
+| [**Meowbook**](https://github.com/ddrmv/d-meowbook)                        | A social media app team project with a meow twist.                                        | JavaScript, Node, Express, Handlebars, Bootstrap, MongoDB, Jest, Cypress | [link](https://dmeowbook.herokuapp.com/) |
 | [**Clickbait News**](https://github.com/ddrmv/clickbait-news-team-project) | See the intended emotional effect of a headline, its political lean, related fact checks. | TypeScript, JavaScript, Node, Express, EJS, MDBootstrap, Jest            | [link](https://dis-reeks.herokuapp.com/) |
+| [**Chitter**](https://github.com/ddrmv/makers-w4-chitter-challenge)        | A social media weekend solo project.                                                      | Ruby, Sinatra, ERB, PostgreSQL, RSpec                                    |                                          |
 | [**Tech tests**](https://github.com/ddrmv/tech-tests)                      | Tech tests with various technologies, demonstrating TDD and code quality.                 | JavaScript, Jest                                                         |                                          |
 
 ## Skills
