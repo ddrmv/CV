@@ -4,15 +4,14 @@
 
 ## About Me
 
-A creative and hard-working junior full-stack software engineer with JavaScript, Typescript, Python, Ruby experience. Recent Makers graduate, with a degree in Computing, and a passion for writing high-quality code. With aptitude for maths and logic, led by curiosity and desire to learn, aiming to write meaningful and beautiful software.
+An avid learner and hard-working junior software engineer with experience in Python, Ruby, JavaScript, TypeScript, C, C++. Makers bootcamp graduate, with a degree in Computing, and a passion for high-quality code. Led by desire to learn and solve problems, aiming to write robust, maintainable, testable, high-quality software.
 
 ## Projects
 
-| Name                                                                     | Description                                                              | Technology / Tools                                                       |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| [**Meowbook**](https://github.com/ddrmv/d-meowbook)                      | A social media app with a meow twist (team project)                      | JavaScript, Node, Express, Handlebars, Bootstrap, MongoDB, Jest, Cypress |
-| [**Bank**](https://github.com/ddrmv/tech-tests/tree/main/bank-tech-test) | Tech tests with various technologies, demonstrating TDD and code quality | JavaScript, Jest                                                         |
-| [**Chitter**](https://github.com/ddrmv/makers-w4-chitter-challenge)      | A social media weekend solo project                                      | Ruby, Sinatra, ERB, PostgreSQL, RSpec                                    |
+| Name | Description | Technology / Tools |
+| - | - | - |
+| [**IENPCs**](https://github.com/ddrmv/ienpcs) | Website with wiki, gallery, party manager (solo project) | Python, Django, DTL, Bootstrap, ORM, UnitTest, HTML |
+| [**Meowbook**](https://github.com/ddrmv/d-meowbook)| A social media app with a meow twist (team project) | JavaScript, Node, Express, Handlebars, Bootstrap, MongoDB, Jest, Cypress |
 
 ## Skills
 
@@ -50,10 +49,14 @@ A creative and hard-working junior full-stack software engineer with JavaScript,
 
 ## Experience
 
-#### [Makers Academy](https://makers.tech/) (Jul-2022 - Nov-2022)
+**Further training** (Jul-2022 - present)
 
-- Developed the ability to quickly learn and use unfamiliar frameworks and technologies through self-led learning
-  (independently learned TypeScript, Bootstrap, EJS, Cypress, Handlebars)
+- Built a Django-based website, "IENPCs", integrating features of a wiki, image gallery, game party manager
+- Worked on and implemented algorithms for complex route calculations and Monte Carlo evaluations in games in the C and C++ Specialisation "Coding for Everyone: C and C++" by University of California, Santa Cruz, via Coursera
+
+**Makers Academy / learning** (Jul-2022 - Nov-2022)
+
+- Developed the ability to quickly learn and use unfamiliar frameworks and technologies through self-led learning (independently learned TypeScript, Bootstrap, EJS, Cypress, Handlebars)
 - Developed a strong TDD process of writing code to optimise code simplicity and minimise debugging time (using RSpec, SimpleCov, Jest, Cypress)
 - Emphasis on code quality through code reviews to solidify OOP, TDD, separation of concerns, good naming (in the Ruby and JavaScript languages)
 - Iteratively improve processes of application design and collaborative development through multiple team projects (practising Agile, XP, Scrum, using Trello, Github, Live Share, Zoom)
