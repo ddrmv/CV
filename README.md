@@ -12,6 +12,8 @@ An avid learner and hard-working junior software engineer with experience in Pyt
 | - | - | - |
 | [**IENPCs**](https://github.com/ddrmv/ienpcs) | Website with wiki, gallery, party manager (solo project) | Python, Django, DTL, Bootstrap, ORM, UnitTest, HTML |
 | [**Meowbook**](https://github.com/ddrmv/d-meowbook)| A social media app with a meow twist (team project) | JavaScript, Node, Express, Handlebars, Bootstrap, MongoDB, Jest, Cypress |
+| [**X Bookmarker**](https://github.com/ddrmv/x-bookmarker) | Firefox addon for creating timestamped bookmarks of Twitter videos with one click | JavaScript, Krita |
+| [**Gmail "More" Remover**](https://github.com/ddrmv/gmail-more-remover-scriptlet) | Removes the "More" buttons from the label list in Gmail  | JavaScript, Tampermonkey |
 
 ## Skills
 
@@ -49,10 +51,11 @@ An avid learner and hard-working junior software engineer with experience in Pyt
 
 ## Experience
 
-**Further training** (Jul-2022 - present)
+**Further training** (Nov-2022 - present)
 
 - Built a Django-based website, "IENPCs", integrating features of a wiki, image gallery, game party manager
 - Worked on and implemented algorithms for complex route calculations and Monte Carlo evaluations in games in the C and C++ Specialisation "Coding for Everyone: C and C++" by University of California, Santa Cruz, via Coursera
+- Created small tools, including browser scripting and a browser extension
 
 **Makers Academy / learning** (Jul-2022 - Nov-2022)
 
@@ -101,7 +104,7 @@ _Technical Support_
 
 ## Interests
 
-- Group events and meetups: London TypeScript, London Life Drawing, London Philosophy Collective, Katathon
-- Drawing: Mainly in digital form (Krita, Photoshop), but also in graphite and charcoal
+- Group events and meetups: Life Drawing, London Philosophy Collective, Katathon
+- Drawing: Mainly in digital form (Krita, Photoshop) but also in graphite and charcoal
 - Reading: Love exploring both fiction and non-fiction: fantasy, sci-fi, psychology, history, biography, classics
 - Cycling and martial arts: I cycle for transport and leisure, and I’m interested in sports like Kyokushin and Krav Maga
