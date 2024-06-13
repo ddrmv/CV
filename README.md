@@ -10,6 +10,7 @@ An avid learner and hard-working junior software engineer with experience in Pyt
 
 | Name | Description | Technology / Tools |
 | - | - | - |
+| [**Kegel FOSS**](https://github.com/ddrmv/kegel-foss) | Android exercise app | Kotlin, Android, Jetpack Compose, Gradle, Coroutines |
 | [**IENPCs**](https://github.com/ddrmv/ienpcs) | Website with wiki, gallery, party manager (solo project) | Python, Django, DTL, Bootstrap, ORM, UnitTest, HTML |
 | [**Meowbook**](https://github.com/ddrmv/d-meowbook)| A social media app with a meow twist (team project) | JavaScript, Node, Express, Handlebars, Bootstrap, MongoDB, Jest, Cypress |
 | [**X Bookmarker**](https://github.com/ddrmv/x-bookmarker) | Firefox addon for creating timestamped bookmarks of Twitter videos with one click | JavaScript, Krita |
@@ -53,6 +54,7 @@ An avid learner and hard-working junior software engineer with experience in Pyt
 
 **Further training** (Nov-2022 - present)
 
+- Working with Kotlin on an Android app, to be further improved and released on Google Store
 - Built a Django-based website, "IENPCs", integrating features of a wiki, image gallery, game party manager
 - Worked on and implemented algorithms for complex route calculations and Monte Carlo evaluations in games in the C and C++ Specialisation "Coding for Everyone: C and C++" by University of California, Santa Cruz, via Coursera
 - Created small tools, including browser scripting and a browser extension
